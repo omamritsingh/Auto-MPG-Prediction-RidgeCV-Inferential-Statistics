@@ -13,18 +13,18 @@ The following description can be found on the UCI Repository page for the data-s
 
 ## In Code Section
 
-### 1. Auto-mpg Dataset
-### 2. Data Cleaning
-### 3. Data Visualization
-### 4. Data Preprocessing
-### 5. Linear Regression
-### 6. RidgeCV
-#####   without removing features
-### 7. Gradient Boosting Regressor
-### 8. Applying Statistical Inference
-### 9. Tuning the Model and Predicting : RidgeCV
-#####    removing some features depending on inferential statistics
-### 10. Result
+#### 1. Auto-mpg Dataset
+#### 2. Data Cleaning
+#### 3. Data Visualization
+#### 4. Data Preprocessing
+#### 5. Linear Regression
+#### 6. RidgeCV
+######   without removing features
+#### 7. Gradient Boosting Regressor
+#### 8. Applying Statistical Inference
+#### 9. Tuning the Model and Predicting : RidgeCV
+######    removing some features depending on inferential statistics
+#### 10. Result
 
 
 ## Result
